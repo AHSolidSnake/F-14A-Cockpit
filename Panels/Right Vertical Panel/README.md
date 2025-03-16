@@ -1,4 +1,4 @@
-# Left Vertical Panel
+# Right Vertical Panel
 
 ![CAD Example](cad.png)
 
