@@ -1,4 +1,6 @@
-#Left Vertical Panel
+# Left Vertical Panel
 
-##BoM
+![CAD Example](Panels/Left Vertical Panel/cad.png)
+
+## BoM
 
