@@ -9,3 +9,5 @@
 - Long 13mm Potentiometers [LINK](https://amzn.eu/d/cVvK1kD)
 
 - 17mm Potentiometer Knobs [LINK](https://amzn.eu/d/1eI4sv0)
+
+- 8" Screen [LINK](https://www.aliexpress.com/item/1005007225502307.html)
