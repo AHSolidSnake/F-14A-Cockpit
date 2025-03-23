@@ -20,7 +20,7 @@ Trim and Gear panels are non-functional and for display purposes only.
 
 - Fuel Dump - On-Off 12mm Toggle  [T8013](https://www.aliexpress.com/item/1005001315963290.html)
 
-- Quantity Switch - TBC
+- Quantity Switch - (On) Off (On) Rocker [NKK SW-3007A](https://www.aliexpress.com/item/1005008354400323.html)
 
 
 ### Launch Bar
