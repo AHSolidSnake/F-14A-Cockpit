@@ -15,3 +15,5 @@ AoA / Wing Sweep / Turn-Slip Indicator are non-functional and for display purpos
 - ACM JETT - Mini Toggle
 
 - ACM JETT Cover - LA Sooner Shapeways (No Link)
+
+- 71mm x 24mm Clear Acrylic Window AoA/Wing Sweep
