@@ -12,6 +12,8 @@ Trim and Gear panels are non-functional and for display purposes only.
 
 - Brakes - 10mm Push Pull Switch [LINK](https://www.aliexpress.com/item/1005007343801175.html)
 
+- Gear Lever - [Tek Creations F-18 Mk3](https://tekcreations.space/product/f18-hornet-hook-lever-mkii/)
+
 ### Fuel Panel
 
 - Master Reset - 12mm Push Button Switch [R13-85](https://www.aliexpress.com/item/1042107033.html)
