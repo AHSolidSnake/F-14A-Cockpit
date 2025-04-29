@@ -8,6 +8,8 @@
 
 - Rotary Encoder
 - 2mm clear acrylic window 24mm x 11mm
+- Hook Lever - [Tek Creations F-18 Mk3](https://tekcreations.space/product/f18-hornet-hook-lever-mkii/)
+
 
 ### PDCP
 
