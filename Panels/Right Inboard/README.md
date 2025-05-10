@@ -14,6 +14,7 @@
 - 4mm LED holders x45 
 - Yellow LED x35
 - Green LED x10 
+- 130mm x 123mm 2mm clear acrylic
 
 ### Master Generator
 
